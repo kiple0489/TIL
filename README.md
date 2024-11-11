@@ -2,10 +2,12 @@
 
 ## TIL Diary
 - [2024-10](/TIL%20Diary/2024-10.md)
+- [2024-11](/TIL%20Diary/2024-11.md)
 
 ## Algorithm Problem
 - [DP](/Algorithm%20Problem/DP/)
   - [Baekjoon_1439](/Algorithm%20Problem/DP/Baekjoon_1932.py)
+  - [Baekjoon_2293](/Algorithm%20Problem/DP/Baekjoon_2293.py)
   - [Baekjoon_1439](/Algorithm%20Problem/DP/Baekjoon_9251.py)
   - [Baekjoon_11057](/Algorithm%20Problem/DP/Baekjoon_11057.cpp)
 - [Game Theory](/Algorithm%20Problem/Game%20Theory/)
