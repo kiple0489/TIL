@@ -8,6 +8,7 @@
 - [DP](/Algorithm%20Problem/DP/)
   - [Baekjoon_1439](/Algorithm%20Problem/DP/Baekjoon_1932.py)
   - [Baekjoon_2293](/Algorithm%20Problem/DP/Baekjoon_2293.py)
+  - [Baekjoon_2503](/Algorithm%20Problem/DP/Baekjoon_2503.cpp)
   - [Baekjoon_1439](/Algorithm%20Problem/DP/Baekjoon_9251.py)
   - [Baekjoon_11057](/Algorithm%20Problem/DP/Baekjoon_11057.cpp)
 - [Game Theory](/Algorithm%20Problem/Game%20Theory/)
